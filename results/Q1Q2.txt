@@ -1,0 +1,3 @@
+Number of Submitted Permits: 5,583
+Number of Approved Permits: 3,992
+( All of these are of the PlanReview types)
